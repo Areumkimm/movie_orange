@@ -27,15 +27,6 @@ options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(service=driver,options=options)
 
 
-
-
-
-
-
-
-
-
-
 # Selenium : 동적 페이지에서 웹 크롤링 가능!
 #            -> 원래 용도 : 웹 브라우저 테스트용
 
